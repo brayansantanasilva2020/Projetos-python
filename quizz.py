@@ -49,3 +49,5 @@ else:
 # Resultado final
 print("\n=== RESULTADO FINAL ===")
 print("Você acertou", pontos, "de 3 questões!")
+
+#Brayan De Santana Da Silva 2F
